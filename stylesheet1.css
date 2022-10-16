@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(241, 241, 241);
+}
+#brand{
+    margin-left:5%;
+    margin-right: 50%;
+
+}
+.nav-item{
+    margin-right: 3%;
+    margin-left: 3%;
+    color: black;
+}
+
+#HOME{
+    background-color: rgb(241, 241, 241);
+}
+
+#sec2{
+padding: auto;
+margin: 2%;
+}
+#picdiv{
+    height:100%;
+    margin-bottom: 3%;
+}
+#pic2{
+    border-radius:5%;
+    padding-left: 20%;
+    padding-bottom: 5%;
+    height:400px;
+
+}
+#pic3{
+    margin-top: 20%;
+    border-radius:5%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    height:400px;
+    width: 80%;
+
+}
+
+.workcard{
+    height: 450px;
+    width:350px ;
+}
+.imgcard{
+    height: 75%;
+    
+}
+.btn {
+    background: blue;
+    margin-left: 1%;
+    margin-top: 10%;
+    padding: 1.5%;
+    color: aliceblue;
+    font-size: large;
+    width: 30%;
+    font-family: Montserrat;
+    margin-bottom: 33%;
+}
+
+.container-fluid {
+    margin-bottom: 2%;
+}
+progress{
+    height:15px;
+    width: 100%;
+   border-radius:0;
+   background-color: blue;
+}
+.card{
+    padding: 2%;
+    margin: 3%;
+}
